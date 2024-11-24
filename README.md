@@ -31,17 +31,6 @@ Hi! I am a **Computer Science and Engineering graduate**, currently pursuing **J
 ![JSP](https://img.shields.io/badge/JSP-5C2D91?style=for-the-badge&logo=java&logoColor=white)  
 ![Servlets](https://img.shields.io/badge/Servlets-430098?style=for-the-badge&logo=java&logoColor=white)  
 
----
-
-## 🛠️ Projects  
-### 1️⃣ Impact of Artificial Intelligence on Job Roles  
-📊 **Tools**: Pandas, Seaborn, Matplotlib  
-📖 **Description**:  
-- Analyzed AI's impact on job titles and workloads.  
-- Delivered actionable insights for workforce management.  
-
-### 2️⃣ [Your Other Project Title]  
-🛠️ Add brief descriptions of other projects here.  
 
 ---
 
